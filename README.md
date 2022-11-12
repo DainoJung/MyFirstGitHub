@@ -6,4 +6,4 @@
 
 Thank you.
 
-![제주도 사진](./images/IMG_0091.jpg)
+![jeju-do](./images/IMG_0091.jpg)
