@@ -6,4 +6,4 @@
 
 Thank you.
 
-![jeju-do](./images/IMG_0091.jpg)
+![jeju-do](https://github.com/worldwideinfluencepeople/MyFirstGitHub/blob/main/images/IMG_0091.JPG?raw=true)
